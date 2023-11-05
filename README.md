@@ -8,3 +8,7 @@
 
 ### LevelRecyclerView
 <img src="https://github.com/Coder-HuangBH/MyCustomView/assets/51867928/ec64bf74-8933-4041-b421-f12930748cee" width="400"/>
+[掘金：https://juejin.cn/post/7291474028744278016](https://juejin.cn/post/7291474028744278016)
+
+### MusicAnimationView
+![1699195407121](https://github.com/Coder-HuangBH/MyCustomView/assets/51867928/7b77e4ef-2b62-4c3b-bf64-187fb33e52d7)
